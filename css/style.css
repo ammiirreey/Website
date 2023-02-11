@@ -1,0 +1,57 @@
+
+body{
+    margin: 0;
+    text-align: center;   
+    font-family: sans-serif;
+    ;
+}
+h1{
+    color: #66bfbf;
+    line-height: 2;
+    margin-top: 100px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 4rem;
+}
+h2{
+    color: #66bfbf;
+    font-weight: bold;
+}
+h3{
+    color: #66bfbf;
+}
+.top-container{
+    background-color: #e4f9f5;
+    padding: 50px;
+    font-size: 1.5rem;
+    
+    
+}
+.bottom-cloud{
+    line-height: 2;
+    position: absolute;
+    left: 300px;
+}
+.top-cloud{
+    position:absolute;
+    left: 900px;
+}
+.skill-row{
+    width: 50%;
+    margin :100px auto 100px auto ;
+    text-align: left;
+}
+.python-img{
+    margin-right: 30px;
+    width: 30%;
+    float: left;
+}
+ .Cpp-img{
+    margin-right: 30px;
+    width: 25%;
+    float:right;
+}
+.bottom-container{
+    margin-top: 10px;
+}
+
+
